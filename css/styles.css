@@ -1,0 +1,13 @@
+.color-bongo-rojo {
+    background-color: red;
+}
+
+.color-bongo-azul {
+    background-color: blue;
+}
+
+.video-bongo {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
