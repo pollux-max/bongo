@@ -36,3 +36,15 @@ footer {
 .bongo-naranja {
     color: #E51C21;
 }
+
+.cajon-peruano {
+    width: 500px;
+    height: auto;
+    border-radius: 20px;
+}
+
+.primer-portal {
+    width: 500px;
+    height: auto;
+    border-radius: 20px;
+}
